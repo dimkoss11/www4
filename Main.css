@@ -1,0 +1,14 @@
+        .Main{
+            width: 300;
+            max-width: 300px;
+        }
+        .inputblock{
+            width: 160px;
+            float: left;
+        }
+        .pluskeysblock{
+            float: left;
+        }
+        .minuskeysblock{
+            float: left;
+        }
